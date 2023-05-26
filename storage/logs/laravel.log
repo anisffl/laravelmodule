@@ -1,0 +1,16 @@
+[2023-05-19 17:01:52] local.ERROR: Cannot use positional argument after named argument {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use positional argument after named argument at C:\\Users\\Hp\\Desktop\\Assignment File\\modul13\\module13\\routes\\web.php:16)
+[stacktrace]
+#0 {main}
+"} 
+[2023-05-19 17:03:08] local.ERROR: Cannot use positional argument after named argument {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use positional argument after named argument at C:\\Users\\Hp\\Desktop\\Assignment File\\modul13\\module13\\routes\\web.php:16)
+[stacktrace]
+#0 {main}
+"} 
+[2023-05-20 15:31:47] local.ERROR: Cannot use positional argument after named argument {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use positional argument after named argument at C:\\Users\\Hp\\Desktop\\Assignment File\\modul13\\module13\\routes\\web.php:17)
+[stacktrace]
+#0 {main}
+"} 
+[2023-05-20 15:32:28] local.ERROR: Cannot use positional argument after named argument {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot use positional argument after named argument at C:\\Users\\Hp\\Desktop\\Assignment File\\modul13\\module13\\routes\\web.php:17)
+[stacktrace]
+#0 {main}
+"} 
